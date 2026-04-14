@@ -1,0 +1,9 @@
+[submodule "x11-xMixingDB"]
+	path = x11-xMixingDB
+	url = https://github.com/x92120/x2512001-mitrPhol-x11-xMixingDB.git
+[submodule "x21-xMixingPreBatch"]
+	path = x21-xMixingPreBatch
+	url = https://github.com/x92120/x2512001-mitrPhol-x21-xMixingPreBatch.git
+[submodule "x31-xMixingControl"]
+	path = x31-xMixingControl
+	url = https://github.com/x92120/x2512001-mitrPhol-x31-xMixingControl.git
